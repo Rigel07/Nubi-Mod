@@ -1,0 +1,14 @@
+{
+  "itemGroup.nubi": "Nubi",
+  "entity.nubi.nubi": "Nubi",
+  "item.nubi.nubi_spawn_egg": "Nubi Spawn Egg",
+  "item.nubi.magic_moisture_drop": "Magic Moisture Drop",
+  "item.nubi.magic_moisture_lead": "Magic Moisture Drop Lead",
+  "item.nubi.cloud_helmet": "Cloud Helmet",
+  "item.nubi.cloud_chestplate": "Cloud Chestplate",
+  "item.nubi.cloud_leggings": "Cloud Leggings",
+  "item.nubi.cloud_boots": "Cloud Boots",
+  "key.nubi.float": "Float (cloud armor)",
+  "key.categories.nubi": "Nubi",
+  "biome.nubi.mundo_nubi": "Nubi World"
+}

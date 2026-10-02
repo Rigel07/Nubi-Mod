@@ -1,0 +1,14 @@
+{
+  "itemGroup.nubi": "Nubi",
+  "entity.nubi.nubi": "Nubi",
+  "item.nubi.nubi_spawn_egg": "Generar Nubi",
+  "item.nubi.magic_moisture_drop": "Gota de humedad mágica",
+  "item.nubi.magic_moisture_lead": "Lazo de gota de humedad mágica",
+  "item.nubi.cloud_helmet": "Casco de nube",
+  "item.nubi.cloud_chestplate": "Peto de nube",
+  "item.nubi.cloud_leggings": "Pantalones de nube",
+  "item.nubi.cloud_boots": "Botas de nube",
+  "key.nubi.float": "Flotar (armadura de nube)",
+  "key.categories.nubi": "Nubi",
+  "biome.nubi.mundo_nubi": "Mundo Nubi"
+}
